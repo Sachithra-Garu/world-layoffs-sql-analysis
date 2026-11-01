@@ -52,12 +52,6 @@ Any additional exclusions and their reasons:
 - What was the cumulative monthly total?
 - Which companies occupied the top five layoff ranks in each year?
 
-## Key Findings
-[Replace this section with verified results before publishing.]
-
-1. [Finding with a value and relevant period.]
-2. [Finding with a value and relevant period.]
-3. [Finding with a value and relevant period.]
 
 ## Repository Files
 - 01_data_cleaning.sql: Data preparation and cleaning workflow.
