@@ -81,6 +81,3 @@ and MySQL version used.]
 This project strengthened my ability to prepare data, investigate
 data-quality issues, and use SQL to explore patterns and communicate findings.
 
-## Acknowledgements
-[Credit the original dataset provider and any course, tutorial,
-or other guidance used.]
